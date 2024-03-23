@@ -1,0 +1,9 @@
+{
+  "name": "udemy-clone",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/udemy-clone/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project udemy-clone --web",
+  "targets": {}
+}
